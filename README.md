@@ -14,4 +14,4 @@ My lenguajes are HTMLM, CSS, JavaScript & SQL and I have experience with librari
 ### :seedling: byPlantas:
     byPlantas is a group e-commerce project made by henry students.
     it's an online bio-products store developed with a Front part of React & Redux, a Back part Sequelize.js & Express.js, and deployed in Heroku and Vercel
-![byPlantas](byPlantas.png "byPlantas")
+![byPlantas](byPlantas.jpg "byPlantas")
