@@ -1,16 +1,17 @@
-### Hi there 👋
+## Welcome To My Profile
 
-<!--
-**lucasafm/lucasafm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Lucas Agustin Fernandez Morales
 
-Here are some ideas to get you started:
+I'm a FullStack Web Developer Student from :rocket:**SoyHenry**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My lenguajes are HTMLM, CSS, JavaScript & SQL and I have experience with libraries like React, Redux, Sequelize, Express, and Bootstrap.
+
+---
+
+## Projects:
+
+
+### :seedling: byPlantas:
+    byPlantas is a group e-commerce project made by henry students.
+    it's an online bio-products store developed with a Front part of React & Redux, a Back part Sequelize.js & Express.js, and deployed in Heroku and Vercel
+![byPlantas](byPlantas.png "byPlantas")
